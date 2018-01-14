@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2018-01-14T13:36:01Z" product-name="car_insurance_policy">
+		<header/>
+		<body>
+			<trans-unit id="policy_i_d.description">
+				<source>policyID</source>
+			</trans-unit>
+			<trans-unit id="first_name.description">
+				<source>firstName</source>
+			</trans-unit>
+			<trans-unit id="last_name.description">
+				<source>lastName</source>
+			</trans-unit>
+			<trans-unit id="email_i_d.description">
+				<source>emailID</source>
+			</trans-unit>
+			<trans-unit id="phone_num.description">
+				<source>phoneNum</source>
+			</trans-unit>
+			<trans-unit id="license_number.description">
+				<source>licenseNumber</source>
+			</trans-unit>
+			<trans-unit id="license_expires.description">
+				<source>licenseExpires</source>
+			</trans-unit>
+			<trans-unit id="user.description">
+				<source>user</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

@@ -1,0 +1,14 @@
+{
+    "name": "smartpayd/car-insurance-policy",
+    "type": "typo3-cms-extension",
+    "description": "car insurance policy TYPO3 ",
+    "authors": [],
+    "require": {
+        "typo3/cms-core": "^8.7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "SmartPAYD\\CarInsurancePolicy\\": "Classes"
+        }
+    }
+}

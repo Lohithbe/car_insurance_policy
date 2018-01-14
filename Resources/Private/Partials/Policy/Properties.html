@@ -1,0 +1,36 @@
+<html xmlns:f="https://typo3.org/ns/TYPO3/CMS/Fluid/ViewHelpers" data-namespace-typo3-fluid="true">
+<table class="tx-car-insurance-policy" >
+	<tr>
+		<td>
+			<f:translate key="tx_carinsurancepolicy_domain_model_policy.policy_number" />
+		</td>
+		<td>
+		{policy.policyNumber}
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<f:translate key="tx_carinsurancepolicy_domain_model_policy.policy_start_date" />
+		</td>
+		<td>
+		{policy.policyStartDate -> f:format.date()}
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<f:translate key="tx_carinsurancepolicy_domain_model_policy.policy_expire_date" />
+		</td>
+		<td>
+		{policy.policyExpireDate -> f:format.date()}
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<f:translate key="tx_carinsurancepolicy_domain_model_policy.total_amount" />
+		</td>
+		<td>
+		{policy.totalAmount}
+		</td>
+	</tr>
+</table>
+</html>

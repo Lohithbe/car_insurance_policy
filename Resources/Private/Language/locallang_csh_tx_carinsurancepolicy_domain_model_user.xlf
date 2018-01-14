@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2018-01-14T13:36:01Z" product-name="car_insurance_policy">
+		<header/>
+		<body>
+			<trans-unit id="user_i_d.description">
+				<source>userID</source>
+			</trans-unit>
+			<trans-unit id="vehicle_i_d.description">
+				<source>vehicleID</source>
+			</trans-unit>
+			<trans-unit id="driver_i_d.description">
+				<source>driverID</source>
+			</trans-unit>
+			<trans-unit id="active.description">
+				<source>active</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2018-01-14T13:36:01Z" product-name="car_insurance_policy">
+		<header/>
+		<body>
+			<trans-unit id="tx_carinsurancepolicy_domain_model_policy">
+				<source>Policy</source>
+			</trans-unit>
+			<trans-unit id="tx_carinsurancepolicy_domain_model_policy.policy_number">
+				<source>Policy Number</source>
+			</trans-unit>
+			<trans-unit id="tx_carinsurancepolicy_domain_model_policy.policy_start_date">
+				<source>Policy Start Date</source>
+			</trans-unit>
+			<trans-unit id="tx_carinsurancepolicy_domain_model_policy.policy_expire_date">
+				<source>Policy Expire Date</source>
+			</trans-unit>
+			<trans-unit id="tx_carinsurancepolicy_domain_model_policy.total_amount">
+				<source>Total Amount</source>
+			</trans-unit>
+			<trans-unit id="tx_carinsurancepolicy_domain_model_policy.driver">
+				<source>Driver</source>
+			</trans-unit>
+			<trans-unit id="tx_carinsurancepolicy_domain_model_policy.vehicle">
+				<source>Vehicle</source>
+			</trans-unit>
+			<trans-unit id="tx_carinsurancepolicy_domain_model_policy.bill">
+				<source>Bill</source>
+			</trans-unit>
+			<trans-unit id="tx_carinsurancepolicy_domain_model_vehicle">
+				<source>Vehicle</source>
+			</trans-unit>
+			<trans-unit id="tx_carinsurancepolicy_domain_model_vehicle.vehicle_i_d">
+				<source>Vehicle I D</source>
+			</trans-unit>
+			<trans-unit id="tx_carinsurancepolicy_domain_model_vehicle.veicle_number">
+				<source>Veicle Number</source>
+			</trans-unit>
+			<trans-unit id="tx_carinsurancepolicy_domain_model_vehicle.policy_i_d">
+				<source>Policy I D</source>
+			</trans-unit>
+			<trans-unit id="tx_carinsurancepolicy_domain_model_vehicle.model">
+				<source>Model</source>
+			</trans-unit>
+			<trans-unit id="tx_carinsurancepolicy_domain_model_vehicle.mileage">
+				<source>Mileage</source>
+			</trans-unit>
+			<trans-unit id="tx_carinsurancepolicy_domain_model_vehicle.vehicle_registration_state">
+				<source>Vehicle Registration State</source>
+			</trans-unit>
+			<trans-unit id="tx_carinsurancepolicy_domain_model_bill">
+				<source>Bill</source>
+			</trans-unit>
+			<trans-unit id="tx_carinsurancepolicy_domain_model_bill.policy_i_d">
+				<source>Policy I D</source>
+			</trans-unit>
+			<trans-unit id="tx_carinsurancepolicy_domain_model_bill.due_date">
+				<source>Due Date</source>
+			</trans-unit>
+			<trans-unit id="tx_carinsurancepolicy_domain_model_bill.status">
+				<source>Status</source>
+			</trans-unit>
+			<trans-unit id="tx_carinsurancepolicy_domain_model_driver">
+				<source>Driver</source>
+			</trans-unit>
+			<trans-unit id="tx_carinsurancepolicy_domain_model_driver.policy_i_d">
+				<source>Policy I D</source>
+			</trans-unit>
+			<trans-unit id="tx_carinsurancepolicy_domain_model_driver.first_name">
+				<source>First Name</source>
+			</trans-unit>
+			<trans-unit id="tx_carinsurancepolicy_domain_model_driver.last_name">
+				<source>Last Name</source>
+			</trans-unit>
+			<trans-unit id="tx_carinsurancepolicy_domain_model_driver.email_i_d">
+				<source>Email I D</source>
+			</trans-unit>
+			<trans-unit id="tx_carinsurancepolicy_domain_model_driver.phone_num">
+				<source>Phone Num</source>
+			</trans-unit>
+			<trans-unit id="tx_carinsurancepolicy_domain_model_driver.license_number">
+				<source>License Number</source>
+			</trans-unit>
+			<trans-unit id="tx_carinsurancepolicy_domain_model_driver.license_expires">
+				<source>License Expires</source>
+			</trans-unit>
+			<trans-unit id="tx_carinsurancepolicy_domain_model_driver.user">
+				<source>User</source>
+			</trans-unit>
+			<trans-unit id="tx_carinsurancepolicy_domain_model_user">
+				<source>User</source>
+			</trans-unit>
+			<trans-unit id="tx_carinsurancepolicy_domain_model_user.user_i_d">
+				<source>User I D</source>
+			</trans-unit>
+			<trans-unit id="tx_carinsurancepolicy_domain_model_user.vehicle_i_d">
+				<source>Vehicle I D</source>
+			</trans-unit>
+			<trans-unit id="tx_carinsurancepolicy_domain_model_user.driver_i_d">
+				<source>Driver I D</source>
+			</trans-unit>
+			<trans-unit id="tx_carinsurancepolicy_domain_model_user.active">
+				<source>Active</source>
+			</trans-unit>
+			<trans-unit id="tx_car_insurance_policy_informantiononpolicy.name">
+				<source>InformationOnPolicy</source>
+			</trans-unit>
+			<trans-unit id="tx_car_insurance_policy_informantiononpolicy.description">
+				<source>Information on Cars Insurance Policy</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
